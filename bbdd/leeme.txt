@@ -1,0 +1,1 @@
+importar esta tabla a un sql server (yo utilize xampp para ejecutar el servidor), con el mismo nombre para no modijicar el proyecto, y luego ejectutar el programa.
